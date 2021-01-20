@@ -1,0 +1,19 @@
+{
+  "sites" : [
+    {
+      "siteName" : "GAME",
+      "siteURL" : "https://www.game.co.uk/",
+      "ps5Path" : "playstation-5"
+    },
+    {
+      "siteName" : "Argos",
+      "siteURL" : "https://www.argos.co.uk/",
+      "ps5Path" : "product/8349000"
+    },
+    {
+      "siteName" : "John Lewis",
+      "siteURL" : "https://www.johnlewis.com/",
+      "ps5Path" : "sony-playstation-5-console-with-dualsense-controller/white/p5115192"
+    }
+  ]
+}
